@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- <link rel="stylesheet" href="/boostrap/css/bootstrap.min.css"> -->
+     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
+    crossorigin="anonymous"> 
+    <link rel="stylesheet" href="ass.css">
+</head>
+<body>
+
+    <div class="container-all  text-center container mt-5">
+
+       <div class="mt-3 mb-3"><h4 id="header" ><i>CONVERTER APP</i></h4></div>
+       <select name="" id="vertTo" class="form-control text-center" onchange="delSelect()">
+        <option value="Unit">Unit</option>
+           <option value="Temperature">Temperature</option>
+           <option value="Length">Lenth</option>
+           <option value="Time">Time</option>
+           <option value="Speed">Currency</option>
+           <option value="Energy">Energy</option>
+       </select>
+       <div class="mt-3" id="tem">
+           <select name="" id="temAreaOne">
+               <option value="Celsius" >Celsius</option>
+               <option value="Fahrenheit">Fahrenheit</option>
+               <option vclealue="Kelvin">Kelvin</option>
+           </select>
+
+           <select name="" id="temAreaTwo">
+            <option value="Celsius" >Celsius</option>
+            <option value="Fahrenheit">Fahrenheit</option>
+            <option value="Kelvin">Kelvin</option>
+        </select>
+       </div>
+
+       <div class="mt-3" id="len">
+        <select name="" id="lengthAreaOne">
+            <option value="cm">cm</option>
+            <option value="mm">mm</option>
+            <option value="km">km</option>
+        </select>
+
+        <select name="" id="lengthAreaTwo">
+         <option value="cm">cm</option>
+         <option value="mm">mm</option>
+         <option value="km">km</option>
+     </select>
+       </div>
+     <div class="mt-3" id="tm">
+         <select name="" id="timeAreaOne">
+             <option value="hr">hr</option>
+             <option value="min">min</option>
+             <option value="sec">sec</option>
+         </select>
+         <select name="" id="timeAreaTwo">
+            <option value="hr">hr</option>
+             <option value="min">min</option>
+             <option value="sec">sec</option>
+        </select>
+
+
+     </div>
+    
+
+       <div class="mt-4 form-group text-center ">
+           <div>
+            <input class="form-control ml-5 text-center" type="number" placeholder="Enter Number" id="enterNumber"><span class="text-center ml-5" ><b id="gradeOne" class="ml-5"></b></span>
+           </div>
+           <div class="mt-4"> 
+            <input class="form-control ml-5 text-center" size="10" type="number" placeholder="Results" id="result"><span class="text-center ml-5" ><b class="ml-5 " id="gradeTwo"></b></span>
+           </div>
+           
+       </div>
+
+       <div class="mt-3">
+           <button class="btn btn-success mb-3" onclick="convert()" id="ade">Convert</button>
+       </div>
+
+       <div class="text-muted">
+           <i>update coming soon</i>
+       </div>
+          <div>
+              <i>@ oluwaseyi 2022.</i>
+          </div>
+    </div>
+
+    <script src="ass.js"></script>
+    <!-- <script src="/boostrap/jquery-3.5.1.min.js"></script>
+    <script src="/boostrap/js/bootstrap.min.js"></script> -->
+    
+</body>
+</html>
