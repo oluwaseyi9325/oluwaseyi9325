@@ -1,38 +1,8 @@
 .container-all{
-   background-color: lightgray; width: 30%;
-    border-radius: 20px; border: 5px solid grey;
+   background-color: lightgray; 
+    border-radius: 20px;
+     border: 5px solid grey;
 }
 #header{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-@media only screen and (max-width:750px) {
-    .container-all{
-        margin-left: 100px !important;
-        margin-top: 300px !important;
-        background-color: lightgray;
-         width: 60%;
-         border-radius: 20px; border: 5px solid grey;
-     }
-     .form-group{
-        margin-left: 80px !important;
-        width: 50%;
-    }
-}
-/* @media only screen and (max-width:400px) {
-    .container-all{
-        margin-left: 60px !important;
-        margin-top: 150px !important;
-        background-color: lightgray;
-         width: 70%;
-         border-radius: 20px; border: 5px solid grey;
-     }
-     .form-group{
-        margin-left: 10px !important;
-        width: 50%;
-    }
-} */
-.form-group{
-   
-    width: 50%;
-    margin-left: 50px !important;
 }
