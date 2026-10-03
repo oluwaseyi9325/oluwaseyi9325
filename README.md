@@ -4,7 +4,7 @@
 
 I turn ideas into fast, reliable web and mobile products that people enjoy using — working closely with founders, designers and teams from first sketch to launch.
 
-[Portfolio](https://seyiportfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/seyiadedokun/) · [X](https://x.com/seyiadedokun2) · [YouTube](https://www.youtube.com/@code_with_sheynet) · [Email](mailto:adedokunseyi96@gmail.com)
+[Portfolio](https://seyiportfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/seyiadedokun/) · [X](https://x.com/seyiadedokun2) · [YouTube](https://www.youtube.com/@seyi_adedokun) · [Email](mailto:adedokunseyi96@gmail.com)
 
 ---
 
@@ -48,7 +48,7 @@ Exploring: ![Flutter](https://img.shields.io/badge/Flutter-efede8?style=flat-squ
 
 ### Also
 
-I taught Next.js, Node.js, GraphQL and cloud hosting at SQI College of ICT (2020–2023), and I still mentor developers and share what I learn on [YouTube](https://www.youtube.com/@code_with_sheynet).
+I taught Next.js, Node.js, GraphQL and cloud hosting at SQI College of ICT (2020–2023), and I still mentor developers and share what I learn on [YouTube](https://www.youtube.com/@seyi_adedokun).
 
 ---
 
