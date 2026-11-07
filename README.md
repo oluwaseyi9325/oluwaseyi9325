@@ -10,7 +10,7 @@ I turn ideas into fast, reliable web and mobile products that people enjoy using
 
 ### Right now
 
-- **Frontend Developer at [Conclase](https://conclaseint.com/)**: building Stacstart, an AI-powered learning and job-matching platform, and the Conclase Academy LMS used by 3000+ learners.
+- **Frontend Developer at [Conclase](https://conclaseint.com/)**: building Stacstart, an AI-powered learning and job-matching platform, and the Conclase Academy LMS used by 10,000+ learners.
 - **Mobile Developer (React Native) at [Tredi](https://tredibooks.com/)**: an offline-first invoicing app for small businesses that syncs when it's back online.
 - **Frontend Lead at Afrikdish**: an e-commerce platform for African food delivery in Canada, with Stripe payments and user, vendor and admin dashboards.
 
@@ -41,7 +41,7 @@ Exploring: ![Flutter](https://img.shields.io/badge/Flutter-efede8?style=flat-squ
 | --- | --- | --- |
 | [Stacstart](https://stacstart.com/) | AI-powered platform that trains, mentors and connects African tech talent to companies | Next.js, Node.js, AI |
 | [PitcHigh](https://pitchigh.com/) | Career platform for IT Audit, GRC and InfoSec professionals | React, Next.js, Node.js |
-| Conclase Academy | Learning platform behind Conclase Academy, serving 3000+ learners | Next.js, Node.js, Tailwind |
+| Conclase Academy | Learning platform behind Conclase Academy, serving 10,000+ learners | Next.js, Node.js, Tailwind |
 | [Tredi](https://tredibooks.com/) | Offline-first mobile app for invoices, expenses and products | React Native, Redux |
 | [Copyup](https://mycopyup.vercel.app/) | LMS where copywriters create, sell and take courses | Next.js, Redux, Node.js |
 | [PR Buddy AI](https://github.com/oluwaseyi9325/pr-buddy-ai) | Summarises GitHub pull requests with OpenAI and posts the summary on the PR | Node.js, OpenAI API |
